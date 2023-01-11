@@ -823,7 +823,7 @@ class ATM {
 
   }
 
-  makeButton(placement, label, screen, swwwe, amount, size) {
+  makeButton(placement, label, screen, func, amount, size) {
 
     var keyp = new Audio(this.sfx.keyPress);
 
