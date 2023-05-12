@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AndyMan Blog
+title: AndyMan's Blog
 email: Siprelle@SimulationDynamics.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the debut of my blog, wherein I expound upon models, model-based apps,
+  This is where I expound upon models, model-based apps,
   Supply Chain, and Manufacturing.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
